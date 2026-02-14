@@ -1,0 +1,8 @@
+numpy>=1.24.0
+pandas>=2.0.0
+torch>=2.0.0
+matplotlib>=3.4.0
+gym>=0.21.0
+pyomo>=6.5.0
+pymoo>=0.6.0
+openpyxl>=3.0.0
